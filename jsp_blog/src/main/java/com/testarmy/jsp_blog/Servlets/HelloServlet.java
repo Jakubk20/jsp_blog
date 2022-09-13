@@ -1,4 +1,4 @@
-package com.testarmy.jsp_blog;
+package com.testarmy.jsp_blog.Servlets;
 
 import java.io.*;
 import javax.servlet.http.*;

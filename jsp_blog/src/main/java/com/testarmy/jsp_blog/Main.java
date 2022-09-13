@@ -5,7 +5,7 @@ import com.testarmy.jsp_blog.Dao.Entities.BlogPost;
 
 public class Main {
     public static void main(String[] args) {
-        BlogPost blog = new BlogPost("title", "description");
+        BlogPost blog = new BlogPost("blabla", "ddddddd");
         Dao.save(blog);
     }
 }

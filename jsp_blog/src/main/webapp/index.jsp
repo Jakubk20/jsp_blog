@@ -9,5 +9,7 @@
 </h1>
 <br/>
 <a href="login">Login Servlet</a>
+<br/>
+<a href="xd">xd Servlet</a>
 </body>
 </html>
